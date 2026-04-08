@@ -7,10 +7,14 @@ Desenvolvido como Trabalho Final da disciplina de Desenvolvimento Web, aplicando
 - Sistema de autenticação e sessões
 - Design responsivo e UX
 
+## 👨‍💻 Desenvolvedor
+- Gustavo Accadrolli Farias
+- Projeto realizado em 2026
+  
 ## 🔍 DESCRIÇÃO DO PROJETO
  MundinhoNews é um portal de notícias colaborativo desenvolvido em PHP, onde usuários podem criar contas, publicar notícias e interagir com conteúdo através de curtidas. O sistema possui uma área administrativa completa para gerenciamento de usuários e notícias.
  
-## FUNCIONALIDADES
+## FUNCIONALIDADES ✅​
 - 👤 Autenticação completa (login, cadastro, logout)
 - 📰 CRUD de notícias (criar, editar, excluir)
 - ❤️ Sistema de curtidas persistente
@@ -27,15 +31,14 @@ Desenvolvido como Trabalho Final da disciplina de Desenvolvimento Web, aplicando
 - Bootstrap
 - FontAwesome
 - Xampp
-
-## 👨‍💻 Desenvolvedor
-- Gustavo Accadrolli Farias
-- Projeto realizado em 2026
   
 ## 🧐 COMO USAR 
 -  Clone o repositório
 -  Abra o `index.html` no navegador
-
+  
+## 📱Responsivo
+<img width="472" height="601" alt="Celular site responsivo" src="https://github.com/user-attachments/assets/fb2b29dd-e366-477c-b8a8-38935b93a20a" />
+  
 ## 📷 Vídeo do site
 
 https://github.com/user-attachments/assets/46f4ff44-95d5-4cee-b43a-7eee07c29d59
