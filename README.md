@@ -13,7 +13,14 @@ Desenvolvido como Trabalho Final da disciplina de Desenvolvimento Web, aplicando
   
 ## 🔍 DESCRIÇÃO DO PROJETO
  MundinhoNews é um portal de notícias colaborativo desenvolvido em PHP, onde usuários podem criar contas, publicar notícias e interagir com conteúdo através de curtidas. O sistema possui uma área administrativa completa para gerenciamento de usuários e notícias.
- 
+
+## 📁 Estrutura do Projeto
+
+<img width="202" height="410" alt="ESSA" src="https://github.com/user-attachments/assets/e89f0d12-28b2-4f98-b3e4-58d8bfa16429" />
+
+## 📋 RESUMO DO BANCO
+<img width="730" height="163" alt="BANCO" src="https://github.com/user-attachments/assets/a8b1e9d2-3de9-41c7-8b1a-92b327aaff69" />
+
 ## FUNCIONALIDADES ✅​
 - 👤 Autenticação completa (login, cadastro, logout)
 - 📰 CRUD de notícias (criar, editar, excluir)
